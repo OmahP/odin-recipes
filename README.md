@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple recipe website that consist of a main index page and will have a few links to recipes. This project is to practice my introductory HTML skills and also how to add limks and images to website
